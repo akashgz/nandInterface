@@ -1,0 +1,5 @@
+../Core/Src/stm32l4xx_hal_msp.c:64:6:HAL_MspInit	16	static
+../Core/Src/stm32l4xx_hal_msp.c:83:13:HAL_FMC_MspInit	32	static
+../Core/Src/stm32l4xx_hal_msp.c:149:6:HAL_NAND_MspInit	16	static
+../Core/Src/stm32l4xx_hal_msp.c:161:13:HAL_FMC_MspDeInit	8	static
+../Core/Src/stm32l4xx_hal_msp.c:210:6:HAL_NAND_MspDeInit	16	static

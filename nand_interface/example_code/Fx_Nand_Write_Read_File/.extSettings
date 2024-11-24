@@ -1,0 +1,7 @@
+[ProjectFiles]
+HeaderPath=../Drivers/BSP/STM32H743I-EVAL; ../Drivers/BSP/Components/mfxstm32l152;
+[Groups]
+Doc=../README.md;
+Application/User/LevelX/Target=../LevelX/Target/stm32h743i_eval_fmc_nand.c
+Drivers/BSP/Components=../Drivers/BSP/Components/mfxstm32l152/mfxstm32l152.c;../Drivers/BSP/Components/mfxstm32l152/mfxstm32l152_reg.c;
+Drivers/BSP/STM32H743I-EVAL=../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval.c;../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_bus.c;../Drivers/BSP/STM32H743I-EVAL/stm32h743i_eval_io.c;
