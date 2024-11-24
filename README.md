@@ -1,6 +1,4 @@
-Here's the `README.md` file formatted for Markdown:
 
----
 
 # STM32L4 and DST_TH58BVG3S0HTAI0 NAND Memory Interfacing
 
