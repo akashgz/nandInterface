@@ -1,0 +1,19 @@
+
+STM32L4 Pin	NAND Pin	        Function
+GPIOx_PIN_CE	CE (Chip Enable)	Enables the NAND chip
+GPIOx_PIN_WE	WE (Write Enable)	Controls write operations
+GPIOx_PIN_RE	RE (Read Enable)	Controls read operations
+GPIOx_PIN_CLE	CLE (Command Latch)	Latches commands to the NAND
+GPIOx_PIN_ALE	ALE (Address Latch)	Latches addresses to the NAND
+GPIOx_PIN_WP	WP (Write Protect)	Protects NAND from writes
+GPIOx_PIN_RYBY	RY/BY (Ready/Busy)	Indicates NAND busy state
+GPIOx_PIN_D0	I/O1 (D0)	        Data line (bit 0)
+GPIOx_PIN_D1	I/O2 (D1)	        Data line (bit 1)
+GPIOx_PIN_D2	I/O3 (D2)	        Data line (bit 2)
+GPIOx_PIN_D3	I/O4 (D3)	        Data line (bit 3)
+GPIOx_PIN_D4	I/O5 (D4)	        Data line (bit 4)
+GPIOx_PIN_D5	I/O6 (D5)	        Data line (bit 5)
+GPIOx_PIN_D6	I/O7 (D6)	        Data line (bit 6)
+GPIOx_PIN_D7	I/O8 (D7)	        Data line (bit 7)
+GPIOx_PIN_VCC	VCC	                Power supply
+GPIOx_PIN_GND	GND	                Ground
